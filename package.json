@@ -1,0 +1,30 @@
+{
+  "name": "prism-landing-kit",
+  "version": "1.0.0",
+  "description": "Landing page generator producing a single, dependency-free index.html with themes, sections and live desktop/mobile preview.",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve ."
+  },
+  "keywords": [
+    "landing-page",
+    "generator",
+    "html",
+    "static-site",
+    "indie-hacker",
+    "marketing",
+    "no-code",
+    "vibe-coding",
+    "prism-protocol"
+  ],
+  "author": "Soumya Bhandare (krishyaa06)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishyaa06/prism-landing-kit.git"
+  },
+  "homepage": "https://krishyaa06.github.io/prism-landing-kit/",
+  "engines": {
+    "node": ">=18.17"
+  }
+}
